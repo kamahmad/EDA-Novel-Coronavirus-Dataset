@@ -1,4 +1,4 @@
-# Exploratory Data Analysis of the Wuhan Coronavirus (2019- nCoV) Dataset
+# Exploratory Data Analysis of the Novel Coronavirus (2019- nCoV) Dataset
 
 This repository shows the steps taken to perform an in-depth analysis of the "[Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)" published on Kaggle. The data has been collected by the [John Hopkins University](https://www.jhu.edu/) from various sources like WHO, local CDC and media outlets. 
 
